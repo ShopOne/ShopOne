@@ -5,8 +5,9 @@ Kotlinを書く事が多いです<br>
 ### 主な開発物
 - くそなぞなぞコンテストサイト [Shitforces](https://shitforces.herokuapp.com)<br>
 [![Shitforcesリポジトリ](https://github-readme-stats.vercel.app/api/pin/?username=ShopOne&repo=Shitforces)](https://github.com/ShopOne/Shitforces) <br> <br>
-- Androidアプリ [風来のシレンSFCサポーター](https://play.google.com/store/apps/details?id=com.support.shirensupporter&hl=ja&gl=US)<br>
 
+
+- Androidアプリ [風来のシレンSFCサポーター](https://play.google.com/store/apps/details?id=com.support.shirensupporter&hl=ja&gl=US)<br>
 [![風来のシレンSFCサポーター](https://github-readme-stats.vercel.app/api/pin/?username=ShopOne&repo=ShirenSupporter)](https://github.com/ShopOne/ShirenSupporter)
 <!--
 **ShopOne/ShopOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
